@@ -11,5 +11,9 @@ config_version=5
 [application]
 
 config/name="This is Clash"
+<<<<<<< Updated upstream
+=======
+run/main_scene="uid://cln8eshppbgqx"
+>>>>>>> Stashed changes
 config/features=PackedStringArray("4.5", "Forward Plus")
 config/icon="res://icon.svg"
